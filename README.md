@@ -14,3 +14,14 @@ Contracts include is not limited to implementations of standard-compliant tokens
 Object-oriented, high-level language
 Statically typed
 Supports inheritance, libraries and complex user-defined types.
+
+# Usage
+
+https://www.tronide.io/
+
+Compiling in Tron-IDE
+
+Tron-IDE(similar to Remix IDE on the Ethereum platform) is a user-friendly IDE for developing contracts. Please refer to the documentation for the instruction.
+As the picture shows, copy the above code to the new file, then activate the Solidity compiler plugin and click Compile Untitled.sol .
+
+
