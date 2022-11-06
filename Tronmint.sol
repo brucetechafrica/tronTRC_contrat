@@ -1,7 +1,7 @@
 pragma solidity ^0.4.23;
 
 import "./TRC20.sol";
-import "../../roles/MinterRole.sol";
+import "../Tronmintrole.sol";
 
 /**
  * @title TRC20Mintable
