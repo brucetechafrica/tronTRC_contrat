@@ -1,6 +1,6 @@
 pragma solidity ^0.4.23;
 
-import "./TRC20.sol";
+import "./TRC20contrat.sol";
 import "../Tronmintrole.sol";
 
 /**
