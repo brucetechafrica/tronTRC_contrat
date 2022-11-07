@@ -4,9 +4,15 @@ Solidity smart contracts for TRON network .
 
 This repository contains a library of sample smart contracts for the TRON network.
 
-Configured with TronBox.
+Configured with TronIDE
 
 Contracts include is not limited to implementations of standard-compliant tokens, library kits, and common utilities.
+
+✅TRC20 
+
+✅TRC10
+
+✅TRC721
 
 
 👨🏽‍💻 TRON supports Solidity, a developer-friendly smart contract development language, which has the following features:
