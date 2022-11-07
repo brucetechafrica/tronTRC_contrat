@@ -1,5 +1,5 @@
 import "./ITRC721.sol";
-import "../../math/SafeMath.sol";
+import "./SafeMath.sol";
 
 /**
  * @title ERC721 Non-Fungible Token Standard basic implementation
